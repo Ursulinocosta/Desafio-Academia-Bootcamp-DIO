@@ -1,4 +1,4 @@
-<h1>Conhecendo o Spring Data JPA na Prática </h1>
+<h1>Spring Data JPA na Prática </h1>
 
 <h2>Principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
 
